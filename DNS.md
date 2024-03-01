@@ -125,3 +125,14 @@ dns.hinet.net
 ```
 ns1.pbase.net
 ```
+# WARP订阅
+
+[https://tofree.zeabur.app/](https://tofree.zeabur.app/)
+```
+https://subs.zeabur.app/clash
+```
+
+[https://neko-warp.nloli.xyz/](https://neko-warp.nloli.xyz/)
+```
+https://neko-warp.nloli.xyz
+```

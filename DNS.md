@@ -141,9 +141,9 @@ https://neko-warp.nloli.xyz
 
 GFW-list
 ```
-https://raw.staticdn.net/gfwlist/gfwlist/master/gfwlist.txt
+https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ```
 China-list
 ```
-https://raw.staticdn.net/Rongronggg9/chinalist/main/chinalist_plain.txt
+https://raw.githubusercontent.com/Rongronggg9/chinalist/main/chinalist_plain.txt
 ```

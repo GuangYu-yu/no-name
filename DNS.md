@@ -148,7 +148,7 @@ China-list
 https://hub.gitmirror.com/https://raw.githubusercontent.com/Rongronggg9/chinalist/main/chinalist_plain.txt
 ```
 
-#Termux优选对端IP
+# Termux优选对端IP
 
 ```
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/endip.sh -o endip.sh && chmod +x endip.sh && ./endip.sh

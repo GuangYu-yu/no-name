@@ -19,112 +19,126 @@
 
 四川电信
 ```
-202.98.96.68
+218.6.200.139
 ```
 
-## 端口-无 协议-https 地区-CN
-
-阿里 DoH
+四川电信
 ```
-https://dns.alidns.com/dns-query
+61.139.2.69
 ```
 
-腾讯 DoH
+阿里
 ```
-https://doh.pub/dns-query
-```
-
-天地互联 DoH
-```
-https://dns.ipv6dns.com/dns-query
+223.5.5.5
 ```
 
-iQ华东 DoH
+腾讯
 ```
-https://cn-east.iqiqzz.com/dns-query
-```
-
-iQ华南 DoH
-```
-https://cn-south.iqiqzz.com/dns-query
+119.29.29.29
 ```
 
-Moe DoH
+## 端口-853 协议-tls 地区-Global
+
+Cloudflare
 ```
-https://pdns.itxe.net/dns-query
+1dot1dot1dot1.cloudflare-dns.com
 ```
 
-18bit DoH
+OpenDNS
 ```
-https://doh.18bit.cn/dns-query
-```
-
-Geek DoH
-```
-https://i.233py.com/dns-query
+sandbox.opendns.com
 ```
 
-## 端口-无 协议-https 地区-Global
-
-Cloudflare DoH
-```
-https://cloudflare-dns.com/dns-query
-```
-
-Open DoH
-```
-https://doh.opendns.com/dns-query
-```
-
-Yandex DoH
+Yandex
 ```
 common.dot.dns.yandex.net
 ```
 
 中国台湾 Quad101
 ```
-https://dns.twnic.tw/dns-query
+dns.twnic.tw
 ```
 
-DNS.SB DoH
+DNS.SB
 ```
-https://doh.dns.sb/dns-query
-```
-
-日本IIJ DoH
-```
-https://public.dns.iij.jp/dns-query
+dot.sb
 ```
 
-Quad9 DoH
+日本IIJ
 ```
-https://dns10.quad9.net/dns-query
-```
-
-AdGuard无过滤服务 DoH
-```
-https://unfiltered.adguard-dns.com/dns-query
+public.dns.iij.jp
 ```
 
-日本Blahdns DoH
+Quad9 无过滤服务
 ```
-https://doh-jp.blahdns.com/dns-query
-```
-
-Geek Global DoH
-```
-https://dns.233py.com/dns-query
+dns10.quad9.net
 ```
 
-中华台灣電信
+AdGuard无过滤服务
 ```
-dns.hinet.net
+unfiltered.adguard-dns.com
 ```
 
-香港PCCW
+日本Blahdns
 ```
-ns1.pbase.net
+dot-jp.blahdns.com
 ```
+
+新加坡Blahdns
+```
+dot-sg.blahdns.com
+```
+
+Google
+```
+dns.google
+```
+
+AdGuard无过滤服务
+```
+unfiltered.adguard-dns.com
+```
+
+AdGuard无过滤服务
+```
+unfiltered.adguard-dns.com
+```
+
+Bebas 无过滤服务
+```
+unfiltered.dns.bebasid.com
+```
+
+CFIEC
+```
+dns.cfiec.net
+```
+
+ControlD 无过滤服务
+```
+p0.freedns.controld.com
+```
+
+Mulvad 无过滤服务
+```
+doh.mullvad.net
+```
+
+NextDNS
+```
+anycast.dns.nextdns.io
+```
+
+RethinkDNS 无过滤服务
+```
+max.rethinkdns.com
+```
+
+CIRA Shield DNS 无过滤服务
+```
+private.canadianshield.cira.ca
+```
+
 # WARP订阅
 
 [https://tofree.zeabur.app/](https://tofree.zeabur.app/)

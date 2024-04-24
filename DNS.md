@@ -151,15 +151,21 @@ https://subs.zeabur.app/clash
 https://neko-warp.nloli.xyz
 ```
 
-# 域名列表
+# 列表
 
-GFW-list
+AdBlock DNS Filters
+
+[https://github.com/217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)
+
 ```
-https://hub.gitmirror.com/https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 ```
-China-list
+geoip.dat
+
+[https://github.com/Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
+
 ```
-https://hub.gitmirror.com/https://raw.githubusercontent.com/Rongronggg9/chinalist/main/chinalist_plain.txt
+https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat
 ```
 
 # Termux优选对端IP

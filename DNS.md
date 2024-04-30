@@ -160,12 +160,12 @@ AdBlock DNS Filters
 ```
 https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 ```
-直连域名列表 direct-list
+china-list
 
 [https://github.com/Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
 ```
-https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/direct-list.txt
+https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/china-list.txt
 ```
 
 # Termux优选对端IP

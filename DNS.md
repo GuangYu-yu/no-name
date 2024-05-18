@@ -180,4 +180,5 @@ curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/endip.sh -o endip.sh &
 0 16 * * * curl -s https://gaoyifan.github.io/china-operator-ip/cmcc.txt | tee /dev/stderr | cat - <(curl -s https://gaoyifan.github.io/china-operator-ip/cmcc6.txt) > /etc/mwan3helper/cmcc.txt
 0 17 * * * curl -s https://gaoyifan.github.io/china-operator-ip/unicom.txt | tee /dev/stderr | cat - <(curl -s https://gaoyifan.github.io/china-operator-ip/unicom6.txt) > /etc/mwan3helper/unicom_cnc.txt
 0 18 * * * curl -s https://ispip.clang.cn/chinatelecom.txt | tee /dev/stderr | cat - <(curl -s https://ispip.clang.cn/chinatelecom_ipv6.txt) > /etc/mwan3helper/chinatelecom.txt
+0 19 * * * curl -s https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/gfw.txt > /etc/mwan3helper/gfw.txt
 ```

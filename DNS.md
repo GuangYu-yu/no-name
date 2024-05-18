@@ -139,7 +139,7 @@ CIRA Shield DNS 无过滤服务
 private.canadianshield.cira.ca
 ```
 
-# WARP订阅
+# WARP-clash订阅
 
 [https://tofree.zeabur.app/](https://tofree.zeabur.app/)
 ```
@@ -148,7 +148,7 @@ https://subs.zeabur.app/clash
 
 [https://neko-warp.nloli.xyz/](https://neko-warp.nloli.xyz/)
 ```
-https://neko-warp.nloli.xyz
+https://neko-warp.nloli.xyz/neko_warp.yaml
 ```
 
 # 列表
